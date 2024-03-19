@@ -1,0 +1,76 @@
+ОЧЕНЬ ВАЖНО ЭТО dist == 4
+('ZnBinder', 'ZnBinder')
+0
+('ZnBinder', 'Aromatic')
+0
+('ZnBinder', 'LumpedHydrophobe')
+0
+('Aromatic', 'ZnBinder')
+0
+('Aromatic', 'Aromatic')
+0
+('Aromatic', 'LumpedHydrophobe')
+0
+('LumpedHydrophobe', 'ZnBinder')
+0
+('LumpedHydrophobe', 'Aromatic')
+0
+('LumpedHydrophobe', 'LumpedHydrophobe')
+0
+ОЧЕНЬ ВАЖНО ЭТО dist == 8
+('ZnBinder', 'ZnBinder')
+0
+('ZnBinder', 'Aromatic')
+0
+('ZnBinder', 'LumpedHydrophobe')
+0
+('Aromatic', 'ZnBinder')
+0
+('Aromatic', 'Aromatic')
+0
+('Aromatic', 'LumpedHydrophobe')
+0
+('LumpedHydrophobe', 'ZnBinder')
+0
+('LumpedHydrophobe', 'Aromatic')
+0
+('LumpedHydrophobe', 'LumpedHydrophobe')
+0
+ОЧЕНЬ ВАЖНО ЭТО dist == 12
+('ZnBinder', 'ZnBinder')
+0
+('ZnBinder', 'Aromatic')
+0
+('ZnBinder', 'LumpedHydrophobe')
+0
+('Aromatic', 'ZnBinder')
+0
+('Aromatic', 'Aromatic')
+0
+('Aromatic', 'LumpedHydrophobe')
+0
+('LumpedHydrophobe', 'ZnBinder')
+0
+('LumpedHydrophobe', 'Aromatic')
+0
+('LumpedHydrophobe', 'LumpedHydrophobe')
+0
+ОЧЕНЬ ВАЖНО ЭТО dist == 16
+('ZnBinder', 'ZnBinder')
+0
+('ZnBinder', 'Aromatic')
+0
+('ZnBinder', 'LumpedHydrophobe')
+0
+('Aromatic', 'ZnBinder')
+0
+('Aromatic', 'Aromatic')
+0
+('Aromatic', 'LumpedHydrophobe')
+0
+('LumpedHydrophobe', 'ZnBinder')
+0
+('LumpedHydrophobe', 'Aromatic')
+0
+('LumpedHydrophobe', 'LumpedHydrophobe')
+0

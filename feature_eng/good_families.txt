@@ -1,0 +1,255 @@
+ОЧЕНЬ ВАЖНО ЭТО dist == 4
+('Donor', 'Donor')
+26.0
+('Donor', 'Acceptor')
+82
+('Donor', 'NegIonizable')
+0
+('Donor', 'PosIonizable')
+0
+('Donor', 'Hydrophobe')
+47
+('Acceptor', 'Donor')
+82
+('Acceptor', 'Acceptor')
+15.0
+('Acceptor', 'NegIonizable')
+0
+('Acceptor', 'PosIonizable')
+0
+('Acceptor', 'Hydrophobe')
+53
+('NegIonizable', 'Donor')
+0
+('NegIonizable', 'Acceptor')
+0
+('NegIonizable', 'NegIonizable')
+0
+('NegIonizable', 'PosIonizable')
+0
+('NegIonizable', 'Hydrophobe')
+0
+('PosIonizable', 'Donor')
+0
+('PosIonizable', 'Acceptor')
+0
+('PosIonizable', 'NegIonizable')
+0
+('PosIonizable', 'PosIonizable')
+0
+('PosIonizable', 'Hydrophobe')
+0
+('Hydrophobe', 'Donor')
+47
+('Hydrophobe', 'Acceptor')
+53
+('Hydrophobe', 'NegIonizable')
+0
+('Hydrophobe', 'PosIonizable')
+0
+('Hydrophobe', 'Hydrophobe')
+18.0
+ОЧЕНЬ ВАЖНО ЭТО dist == 8
+('Donor', 'Donor')
+138.0
+('Donor', 'Acceptor')
+263
+('Donor', 'NegIonizable')
+0
+('Donor', 'PosIonizable')
+0
+('Donor', 'Hydrophobe')
+317
+('Acceptor', 'Donor')
+263
+('Acceptor', 'Acceptor')
+95.0
+('Acceptor', 'NegIonizable')
+0
+('Acceptor', 'PosIonizable')
+0
+('Acceptor', 'Hydrophobe')
+275
+('NegIonizable', 'Donor')
+0
+('NegIonizable', 'Acceptor')
+0
+('NegIonizable', 'NegIonizable')
+0
+('NegIonizable', 'PosIonizable')
+0
+('NegIonizable', 'Hydrophobe')
+0
+('PosIonizable', 'Donor')
+0
+('PosIonizable', 'Acceptor')
+0
+('PosIonizable', 'NegIonizable')
+0
+('PosIonizable', 'PosIonizable')
+0
+('PosIonizable', 'Hydrophobe')
+0
+('Hydrophobe', 'Donor')
+317
+('Hydrophobe', 'Acceptor')
+275
+('Hydrophobe', 'NegIonizable')
+0
+('Hydrophobe', 'PosIonizable')
+0
+('Hydrophobe', 'Hydrophobe')
+175.0
+ОЧЕНЬ ВАЖНО ЭТО dist == 12
+('Donor', 'Donor')
+306.0
+('Donor', 'Acceptor')
+529
+('Donor', 'NegIonizable')
+0
+('Donor', 'PosIonizable')
+0
+('Donor', 'Hydrophobe')
+656
+('Acceptor', 'Donor')
+529
+('Acceptor', 'Acceptor')
+212.0
+('Acceptor', 'NegIonizable')
+0
+('Acceptor', 'PosIonizable')
+0
+('Acceptor', 'Hydrophobe')
+542
+('NegIonizable', 'Donor')
+0
+('NegIonizable', 'Acceptor')
+0
+('NegIonizable', 'NegIonizable')
+0
+('NegIonizable', 'PosIonizable')
+0
+('NegIonizable', 'Hydrophobe')
+0
+('PosIonizable', 'Donor')
+0
+('PosIonizable', 'Acceptor')
+0
+('PosIonizable', 'NegIonizable')
+0
+('PosIonizable', 'PosIonizable')
+0
+('PosIonizable', 'Hydrophobe')
+0
+('Hydrophobe', 'Donor')
+656
+('Hydrophobe', 'Acceptor')
+542
+('Hydrophobe', 'NegIonizable')
+0
+('Hydrophobe', 'PosIonizable')
+0
+('Hydrophobe', 'Hydrophobe')
+327.0
+ОЧЕНЬ ВАЖНО ЭТО dist == 16
+('Donor', 'Donor')
+406.0
+('Donor', 'Acceptor')
+711
+('Donor', 'NegIonizable')
+0
+('Donor', 'PosIonizable')
+0
+('Donor', 'Hydrophobe')
+857
+('Acceptor', 'Donor')
+711
+('Acceptor', 'Acceptor')
+285.0
+('Acceptor', 'NegIonizable')
+0
+('Acceptor', 'PosIonizable')
+0
+('Acceptor', 'Hydrophobe')
+718
+('NegIonizable', 'Donor')
+0
+('NegIonizable', 'Acceptor')
+0
+('NegIonizable', 'NegIonizable')
+0
+('NegIonizable', 'PosIonizable')
+0
+('NegIonizable', 'Hydrophobe')
+0
+('PosIonizable', 'Donor')
+0
+('PosIonizable', 'Acceptor')
+0
+('PosIonizable', 'NegIonizable')
+0
+('PosIonizable', 'PosIonizable')
+0
+('PosIonizable', 'Hydrophobe')
+0
+('Hydrophobe', 'Donor')
+857
+('Hydrophobe', 'Acceptor')
+718
+('Hydrophobe', 'NegIonizable')
+0
+('Hydrophobe', 'PosIonizable')
+0
+('Hydrophobe', 'Hydrophobe')
+415.0
+ОЧЕНЬ ВАЖНО ЭТО dist == 20
+('Donor', 'Donor')
+435.0
+('Donor', 'Acceptor')
+750
+('Donor', 'NegIonizable')
+0
+('Donor', 'PosIonizable')
+0
+('Donor', 'Hydrophobe')
+900
+('Acceptor', 'Donor')
+750
+('Acceptor', 'Acceptor')
+300.0
+('Acceptor', 'NegIonizable')
+0
+('Acceptor', 'PosIonizable')
+0
+('Acceptor', 'Hydrophobe')
+750
+('NegIonizable', 'Donor')
+0
+('NegIonizable', 'Acceptor')
+0
+('NegIonizable', 'NegIonizable')
+0
+('NegIonizable', 'PosIonizable')
+0
+('NegIonizable', 'Hydrophobe')
+0
+('PosIonizable', 'Donor')
+0
+('PosIonizable', 'Acceptor')
+0
+('PosIonizable', 'NegIonizable')
+0
+('PosIonizable', 'PosIonizable')
+0
+('PosIonizable', 'Hydrophobe')
+0
+('Hydrophobe', 'Donor')
+900
+('Hydrophobe', 'Acceptor')
+750
+('Hydrophobe', 'NegIonizable')
+0
+('Hydrophobe', 'PosIonizable')
+0
+('Hydrophobe', 'Hydrophobe')
+435.0

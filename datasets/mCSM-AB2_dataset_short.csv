@@ -1,0 +1,5 @@
+ID,PDB,mutation,chain,partner chains,Exp. DDG,source,complex group,Method
+126,1FC2,F149A,C,D,-0.06,SKEMPI2,8,SPR
+127,1FC2,F149W,C,D,0,SKEMPI2,8,FL
+128,1FC2,I135W,C,D,-3.14,SKEMPI2,8,FL
+129,1FC2,I150A,C,D,-5.27,SKEMPI2,8,SPR
